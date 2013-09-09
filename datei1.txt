@@ -1,2 +1,2 @@
 Zeile 1 (geändert auf dem Master-Branch), nochmals ergänzt (im Branch "new_fix")
-Zeile 2 (hinzugefügt auf dem Master-Branch)
+Zeile 2 (hinzugefügt auf dem Master-Branch), ergänzt (im Branch "hotfix2")
