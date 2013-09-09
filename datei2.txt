@@ -1,4 +1,4 @@
 Zeile 1, ergänzt (im Branch "testing")
 Zeile 2 (ergänzt auf Branch "hotfix")
 
-Zeile 4, etwas ergänzt (hinzugefügt im Branch iss53)
+Zeile 4, etwas ergänzt (hinzugefügt im Branch iss53), geflickt (im Branch "hotfix3")
