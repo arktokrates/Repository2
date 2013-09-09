@@ -1,4 +1,4 @@
 Zeile 1
 Zeile 2
 Zeile 3, ergänzt (im Branch "Master")
-Zeile 4 (hinzugefügt im Branch "fix2")
+Zeile 4 (hinzugefügt im Branch "fix2"), nochmals ergänzt
