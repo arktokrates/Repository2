@@ -1,1 +1,2 @@
 Zeile 1 (geändert auf dem Master-Branch)
+Zeile 2 (hinzugefügt auf dem Master-Branch)
