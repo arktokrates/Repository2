@@ -1,2 +1,2 @@
 Zeile 1
-Zeile 2
+Zeile 2 (ergänzt auf Branch "hotfix")
